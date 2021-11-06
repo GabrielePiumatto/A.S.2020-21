@@ -6,10 +6,10 @@ Il videogioco sarà un rhythm game con ambientazione futuristica e pixel art usa
 
 Dassio Elia: Team leader, sviluppatore, game designer, sound designer.
 
-Cavicchia Alessandra: Dipartimento di grafica e animazioni, game dedigner, sound designer.
+Cavicchia Alessandra: Dipartimento di grafica e animazioni, game designer, sound designer.
 
 Marchisio Raffaele: Sviluppatore, game designer, level designer.
 
-Piumatto Gabriele: Sviluppatore, game designer, level desiner.
+Piumatto Gabriele: Sviluppatore, game designer, level designer.
 
 Useremo unity come game engine.
